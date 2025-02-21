@@ -28,9 +28,9 @@ app.post("/bfhl", (req, res) => {
 
   // User details (hardcoded)
   const userDetails = {
-    user_id: "lohitaksh_chopra_22BCS14122",
-    email: "universitycluster1.1@gmail.com",
-    roll_number: "22BCS14122",
+    user_id: "shudhanshu_Kumar_Tiwari_22BCS10311",
+    email: "sktiwary9122@gmail.com",
+    roll_number: "22BCS10311",
   };
 
   // Separate numbers and alphabets
