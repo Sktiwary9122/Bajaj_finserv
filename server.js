@@ -53,4 +53,6 @@ app.post("/bfhl", (req, res) => {
 });
 
 // Start the server
-app.listen();
+app.listen(3000, () => {
+  console.log(`Server running on http://localhost:${3000}`);
+});
